@@ -1,34 +1,112 @@
 {
     "users": [
         {
-            "id": "",
-            "email": "",
-            "name": "",
-            "age": 0
+            "id": "62010eac55b08540bf15958c",
+            "email": "lorie_bentley@undefined.gbiz",
+            "profile": {
+                "dayOfBirth": "1992-02-22",
+                "name": "Lorie Bentley",
+                "address": "9 Fair Street, Vernon, Colorado"
+            },
+            "username": "lorie92",
+            "createdAt": "2012-01-21T16:09:32.115Z",
+            "updatedAt": "2012-01-22T16:09:32.115Z"
         },
         {
-            "id": "",
-            "email": "",
-            "name": "",
-            "age": 0
+            "id": "62010eac38d37d95525d0feb",
+            "email": "kate_nicholson@undefined.cw",
+            "profile": {
+                "dayOfBirth": "1990-05-25",
+                "name": "Kate Nicholson",
+                "address": "76 Agate Court, Valmy, Michigan"
+            },
+            "username": "kate90",
+            "createdAt": "2014-12-31T16:29:22.960Z",
+            "updatedAt": "2015-01-01T16:29:22.960Z"
         },
         {
-            "id": "",
-            "email": "",
-            "name": "",
-            "age": 0
+            "id": "62010eac2612e51936b5d3c1",
+            "email": "tamera_medina@undefined.rehab",
+            "profile": {
+                "dayOfBirth": "1989-02-09",
+                "name": "Tamera Medina",
+                "address": "30 Hancock Street, Somerset, Rhode Island"
+            },
+            "username": "tamera89",
+            "createdAt": "2011-01-08T11:10:36.010Z",
+            "updatedAt": "2011-01-09T11:10:36.010Z"
         },
         {
-            "id": "",
-            "email": "",
-            "name": "",
-            "age": 0
+            "id": "62010eacd916f6bfcd253fdc",
+            "email": "dena_tillman@undefined.barclays",
+            "profile": {
+                "dayOfBirth": "1993-02-15",
+                "name": "Dena Tillman",
+                "address": "21 Moore Place, Heil, Hawaii"
+            },
+            "username": "dena93",
+            "createdAt": "2014-08-05T22:03:33.589Z",
+            "updatedAt": "2014-08-06T22:03:33.589Z"
         },
         {
-            "id": "",
-            "email": "",
-            "name": "",
-            "age": 0
+            "id": "62010eac31f34941cd59a9ed",
+            "email": "randall_sullivan@undefined.site",
+            "profile": {
+                "dayOfBirth": "1988-02-13",
+                "name": "Randall Sullivan",
+                "address": "89 Harman Street, Irwin, Missouri"
+            },
+            "username": "randall88",
+            "createdAt": "2014-11-10T13:25:51.038Z",
+            "updatedAt": "2014-11-11T13:25:51.038Z"
+        },
+        {
+            "id": "62010eacc56dbbba178bb815",
+            "email": "cherie_brooks@undefined.wiki",
+            "profile": {
+                "dayOfBirth": "1993-01-11",
+                "name": "Cherie Brooks",
+                "address": "20 Shale Street, Needmore, American Samoa"
+            },
+            "username": "cherie93",
+            "createdAt": "2011-03-04T20:35:21.909Z",
+            "updatedAt": "2011-03-05T20:35:21.909Z"
+        },
+        {
+            "id": "62010eac3e274e7ee7d91002",
+            "email": "bethany_christian@undefined.walter",
+            "profile": {
+                "dayOfBirth": "1990-02-01",
+                "name": "Bethany Christian",
+                "address": "7 Montgomery Street, Iberia, Virgin Islands"
+            },
+            "username": "bethany90",
+            "createdAt": "2013-08-12T06:56:32.849Z",
+            "updatedAt": "2013-08-13T06:56:32.849Z"
+        },
+        {
+            "id": "62010eacde822a586a5324a3",
+            "email": "mayo_spencer@undefined.swiss",
+            "profile": {
+                "dayOfBirth": "1990-03-16",
+                "name": "Mayo Spencer",
+                "address": "50 Tabor Court, Gerton, New Hampshire"
+            },
+            "username": "mayo90",
+            "createdAt": "2014-03-03T02:03:55.321Z",
+            "updatedAt": "2014-03-04T02:03:55.321Z"
+        },
+        {
+            "id": "62010eac2bbb6ef6da8aefd7",
+            "email": "connie_pickett@undefined.yandex",
+            "profile": {
+                "dayOfBirth": "1991-06-17",
+                "name": "Connie Pickett",
+                "address": "89 Aurelia Court, Olney, Arizona"
+            },
+            "username": "connie91",
+            "createdAt": "2013-01-03T00:09:41.835Z",
+            "updatedAt": "2013-01-04T00:09:41.835Z"
         }
     ]
 }
